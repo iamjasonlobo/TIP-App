@@ -19,6 +19,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        //set title
+        self.title = "Tip Calculator"
     }
     
     @IBAction func tipControl(_ sender: Any) {
