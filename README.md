@@ -1,5 +1,5 @@
 # T!P
-T!P is an iOS application built to help users calculate tips with ease. This application is defined by its simplistic yet functional visuals.
+T!P is an iOS application created to help users calculate tips with ease. This application is defined by its simplistic yet functional visuals.
 
 ## Demo
 https://i.imgur.com/b3UcTwn.gif<br>
